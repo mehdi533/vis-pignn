@@ -38,6 +38,7 @@ tds_out.csv
 *.lst
 *.txt
 *.csv
+data/
 
 # --- Checkpoints ---
 # Keep best model only by default; comment this block if you want all.
